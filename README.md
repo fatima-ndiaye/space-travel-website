@@ -26,8 +26,8 @@ This website is a project that provides information about space tourism destinat
 
 ### Links
 
-- Solution URL: [https://github.com/fatima-xs/space-travel-website]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fatima-xs/space-travel-website](https://github.com/fatima-xs/space-travel-website)
+- Live Site URL: [https://space-travel-fatima.netlify.app/](https://space-travel-fatima.netlify.app/)
 
 ## Built with
 
