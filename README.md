@@ -37,7 +37,7 @@ This website is a project that provides information about space tourism destinat
 - CSS Grid
 - Vanilla Javascript
 
-## Files & directories
+## Files and Directories
 - index.html : the home page
 - destination.html : the destinations page
 - crew.html : the team page
@@ -52,11 +52,11 @@ This website is a project that provides information about space tourism destinat
 
 ## Author
 **Fatimata Ndiaye**
-- [Profile](https://github.com/fatima-xs "Fatima Ndiaye") 
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi "Hi!")
+- [Profile](https://github.com/fatima-xs "Fatimata Ndiaye") 
+- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
 
 ## Acknowledgment
-Thank you Kevin Powell for his amazing guidance throughout this project!
+Thanks to [Kevin Powell](https://github.com/kevin-powell) for his amazing guidance throughout this project!
 
 
 
