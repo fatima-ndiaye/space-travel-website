@@ -26,16 +26,14 @@ This website is a project that provides information about space tourism destinat
 
 ### Links
 
-- Solution URL: [https://github.com/fatima-xs/space-travel-website](https://github.com/fatima-xs/space-travel-website)
-- Live Site URL: [https://space-travel-fatima.netlify.app/](https://space-travel-fatima.netlify.app/)
+- Solution URL: [Github](https://github.com/fatima-xs/space-travel-website)
+- Live Site URL: [Netlify](https://space-travel-fatima.netlify.app/)
 
 ## Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Vanilla Javascript
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 ## Files and Directories
 - index.html : the home page
@@ -52,8 +50,10 @@ This website is a project that provides information about space tourism destinat
 
 ## Author
 **Fatimata Ndiaye**
-- [Profile](https://github.com/fatima-xs "Fatimata Ndiaye") 
-- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
+
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
+[![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
+
 
 ## Acknowledgment
 Thanks to [Kevin Powell](https://github.com/kevin-powell) for his amazing guidance throughout this project!
