@@ -55,7 +55,7 @@ This website is a project that provides information about space tourism destinat
 
 ## Author
 
-**Fatimata Ndiaye**
+### Fatimata Ndiaye
 
 [![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
 [![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
